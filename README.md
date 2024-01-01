@@ -1,2 +1,2 @@
 # RealWorldPowerPlatformProjects
-Repository for my book - Real World Power Platform Projects
+Repository for - Real World Power Platform Projects Book
